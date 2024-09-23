@@ -24,7 +24,9 @@ Este é o diretorio do backlog do produto
 ![Backlog do Produto](https://criarh.com.br/wp-content/uploads/2022/03/Praticas-do-Scrum.png)
 <img src="https://criarh.com.br/wp-content/uploads/2022/03/Praticas-do-Scrum.png" alt="Exemplo da imagem" width="300">
 
-<img src="https://github.com/arsouza81/Teste/blob/main/verificacao/exemplo01_1.png" alt="Exemplo da imagem" width="1200">
+<img src="https://github.com/arsouza81/Teste/blob/main/verificacao/exemplo01.png" alt="Exemplo da imagem">
+<p align ="center"><img src="https://github.com/arsouza81/Teste/blob/main/verificacao/diagrama_exemplo01.png" alt="Exemplo da imagem" width="900"></p>
+
 
 ### Negrito e Itálico
 **Negrito**
